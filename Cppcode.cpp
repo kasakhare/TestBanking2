@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-	cout<<"wirting first time";
+	cout<<"updating code for 1st time";
 	return 0;
 
 }
