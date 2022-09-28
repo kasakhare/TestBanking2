@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-	cout<<"First Git commit file changed";
+	cout<<"Second git commit file";
 	return 0;
 
 }
